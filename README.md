@@ -2,5 +2,7 @@
 
 * Mercurial
 * GitLAB
+* Git
 * Subversion
 * CVS
+conflito resolvido
